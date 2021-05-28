@@ -1,0 +1,23 @@
+.container-fluid{
+  height: 100%;
+  align-content: center;
+  }
+.card{
+  height: 400px;
+  margin-right: 50px;
+  margin-top: 150px;
+  margin-bottom: auto;
+  width: 400px;
+  }
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color:#7a1b0c;
+}
+.button{
+  margin-top: 30px;
+  color: black;
+}
+
+
